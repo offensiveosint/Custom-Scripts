@@ -1,2 +1,2 @@
 # Custom-Scripts
-Custom Scripts which are distributed to candidates. 
+Stay tuned for some Awesome Scripts coming in as a part of this course. 
